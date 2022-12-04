@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "first_name": "Prateeksha Ranjan",
+      "last_name": "Ranjan",
+      "Phone_number": "9871510399"
+    },
+    {
+      "id": "2",
+      "first_name": "Prateeksha Ranjan",
+      "last_name": "Ranjan",
+      "Phone_number": "9871510399"
+    },
+    {
+      "id": "3",
+      "first_name": "Test client",
+      "last_name": "Ranjan",
+      "Phone_number": "9810153260"
+    }
+  ],
+  "otp": [
+    {
+      "id": "1",
+      "first_name": "Prateeksha Ranjan",
+      "time": "2th Decmeber 09:00 AM",
+      "Phone_number": "9871510399"
+    },
+    {
+      "id": "2",
+      "first_name": "Prateeksha Ranjan",
+      "time": "3rd Decmeber 10:00 AM",
+      "Phone_number": "9871510399"
+    },
+    {
+      "id": "3",
+      "first_name": "Test client",
+      "time": "4th Decmeber 10:30 AM",
+      "Phone_number": "9810153260"
+    }
+  ]
+}
