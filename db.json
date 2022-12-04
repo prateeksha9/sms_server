@@ -23,21 +23,21 @@
     {
       "id": "1",
       "name": "Prateeksha Ranjan",
-      "time": "2nd Decmeber 09:00 AM",
+      "time": "2/12/2022 09:00",
       "phone_number": "9871510399",
       "otp": "123456"
     },
     {
       "id": "2",
       "name": "Prateeksha Ranjan",
-      "time": "3rd Decmeber 10:00 AM",
+      "time": "3/12/2022 10:00",
       "phone_number": "9871510399",
       "otp": "123456"
     },
     {
       "id": "3",
       "name": "Test client",
-      "time": "4th Decmeber 10:30 AM",
+      "time": "4/12/2022 10:30",
       "phone_number": "9810153260",
       "otp": "123456"
     }
