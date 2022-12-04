@@ -2,20 +2,20 @@
   "contacts": [
     {
       "id": "1",
-      "first_name": "Prateeksha Ranjan",
+      "first_name": "Prateeksha",
       "last_name": "Ranjan",
       "Phone_number": "9871510399"
     },
     {
       "id": "2",
-      "first_name": "Prateeksha Ranjan",
+      "first_name": "Prateeksha",
       "last_name": "Ranjan",
       "Phone_number": "9871510399"
     },
     {
       "id": "3",
-      "first_name": "Test client",
-      "last_name": "Ranjan",
+      "first_name": "Test",
+      "last_name": "client",
       "Phone_number": "9810153260"
     }
   ],
